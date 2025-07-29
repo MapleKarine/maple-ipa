@@ -1,7 +1,8 @@
-# Maple SAMPA
-Like X-SAMPA, but by Maple! I really need a better name for this.
+# Maple IPA
 
-The idea for MapleSAMPA is to be more mnemonic than X-SAMPA and have more regularity in symbols. Some symbols have more than one way to be written, as shortcuts, or because of the availability with digital keyboards.
+This is an ASCII based notation for IPA, similar to SAMPA.
+
+The idea for Maple IPA is to be more mnemonic than X-SAMPA and have more regularity in symbols. Some symbols have more than one way to be written, as shortcuts, or because of the availability with digital keyboards.
 
 ## Consonants
 
